@@ -28,8 +28,7 @@ A non-profit platform dedicated to rescuing, rehabilitating, and rehoming abando
 ## Tech Stack
 - **Frontend:** React + TypeScript + Vite + Tailwind CSS
 - **Backend:** Supabase (PostgreSQL, Authentication, Row Level Security)
-- **Hosting:** Vercel / Netlify (suggested)
-
+- 
 ## Screenshots
 
 ### Homepage
