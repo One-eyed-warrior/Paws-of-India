@@ -39,12 +39,60 @@ A non-profit platform dedicated to rescuing, rehabilitating, and rehoming abando
 ![Screenshot 2025-02-03 174750](https://github.com/user-attachments/assets/4f692d42-512c-439e-8f97-8de9d9a7991c)
 
 
-## Installation & Setup
+## 🛠 Installation & Setup
 
-1. **Clone the repository**  
-   ```sh
-   git clone [https://github.com/yourusername/paws-of-india.git
-   cd paws-of-india](https://github.com/One-eyed-warrior/Paws-for-India)
-   ```
+### Prerequisites
+- Node.js (v16.0.0 or higher)
+- npm (v8.0.0 or higher)
+- Git
+- Supabase account
+
+### Step 1: Clone the Repository
+    ```bash
+    # Clone the repository
+    git clone https://github.com/One-eyed-warrior/Paws-for-India.git
+
+    # Navigate to project directory
+    cd Paws-for-India
+
+
+### Step 2: Environment Setup
+    ```bash
+    # Copy example environment file
+    cp .env.example .env.local
+
+    # Open .env.local and add your environment variables
+    VITE_SUPABASE_URL=your_supabase_url
+    VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+    VITE_API_URL=your_api_url
+### Step 3: Install Dependencies
+    ```bash
+    # Install project dependencies
+    npm install
+
+    # If you prefer using yarn
+    yarn install
+### Step 4: Database Setup
+
+ 1.Create a new project in Supabase
+ 2.Run the database migrations
+
+     ```bash
+     npm run migrate
+
+### Step 5: Start Development Server
+      ```bash
+      # Start the development server
+      npm run dev
+      # The server will start on http://localhost:5173
+### Step 6: Build for Production
+      ```bash
+      # Create production build
+      npm run build
+
+      # Preview production build
+      npm run preview
+ 
+
 
 
