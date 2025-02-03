@@ -1,4 +1,4 @@
-# Paws of India
+# Paws for India
 
 A non-profit platform dedicated to rescuing, rehabilitating, and rehoming abandoned animals across India. The website provides an easy way for users to learn about rescue efforts, donate, and volunteer. 
 
