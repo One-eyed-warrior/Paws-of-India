@@ -6,3 +6,4 @@ export default {
   },
   plugins: [],
 };
+//plugins for importing tailwind in vite

@@ -1,6 +1,6 @@
 # Paws of India
 
-A non-profit platform dedicated to rescuing, rehabilitating, and rehoming abandoned animals across India. The website provides an easy way for users to learn about rescue efforts, donate, and volunteer.
+A non-profit platform dedicated to rescuing, rehabilitating, and rehoming abandoned animals across India. The website provides an easy way for users to learn about rescue efforts, donate, and volunteer. 
 
 ## Features
 
@@ -80,18 +80,18 @@ A non-profit platform dedicated to rescuing, rehabilitating, and rehoming abando
      ```bash
      npm run migrate
 
-### Step 5: Start Development Server
+### Step 5: Start Development Server  
       ```bash
-      # Start the development server
-      npm run dev
+      # Start the development server  
+      npm run dev  
       # The server will start on http://localhost:5173
 ### Step 6: Build for Production
       ```bash
       # Create production build
       npm run build
 
-      # Preview production build
-      npm run preview
+      # Preview production build 
+      npm run preview 
  
 
 
