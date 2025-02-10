@@ -38,7 +38,18 @@ A non-profit platform dedicated to rescuing, rehabilitating, and rehoming abando
 ### Footer & Impact Stats
 ![Screenshot 2025-02-03 174750](https://github.com/user-attachments/assets/4f692d42-512c-439e-8f97-8de9d9a7991c)
 
+### Donation Window
+![alt text](<Screenshot 2025-02-10 221210.png>)
 
+### Volunteer Window
+![alt text](<Screenshot 2025-02-10 221244.png>)
+
+### Footer Stuff
+![alt text](<Screenshot 2025-02-10 222643.png>) 
+
+![alt text](<Screenshot 2025-02-10 222617.png>)
+
+![alt text](<Screenshot 2025-02-10 222630.png>)
 ## 🛠 Installation & Setup
 
 ### Prerequisites
